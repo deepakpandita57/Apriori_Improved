@@ -50,4 +50,5 @@ L 4                                           items  count
 
 References
 =============================================================================================================
-Adult dataset: https://archive.ics.uci.edu/ml/datasets/adult
+Adult dataset: https://archive.ics.uci.edu/ml/datasets/adult <br />
+Have questions? Shoot me an [email](https://sites.google.com/view/deepakpandita/contact).
